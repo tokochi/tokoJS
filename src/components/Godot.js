@@ -52,7 +52,7 @@ const useStyles = makeStyles((theme) =>({
 
 
  
-export default function SideBar(props) {
+export default function Godot(props) {
 	const classes = useStyles();
     const [toggleToolbar, setToggleToolbar] = React.useState(false);
     const [open, setOpen] = React.useState(false);

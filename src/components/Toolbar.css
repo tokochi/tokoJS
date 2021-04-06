@@ -1,0 +1,25 @@
+#container{  
+    display: flex;
+}
+
+.js{
+    background-color:#F7E018;
+    padding:0 2px;
+    font-size:15px;
+    font-weight:bold;
+    align-self:center;
+    font-family:Montserrat;
+    border-radius:5px;
+    border:2px solid black;
+    cursor:pointer;
+    user-select:none
+    
+}
+.htl{
+    background-color:#EC5739;
+    color: #E4E4E4; 
+}
+.imp{
+    background-color:#5e3932;
+    color: #030303; 
+}
